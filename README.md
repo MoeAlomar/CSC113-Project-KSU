@@ -1,2 +1,2 @@
 # CSC113-Project-KSU
-here is my CSC113 Project in the Title of "Barnes and Noble" it's a library the project has a GUI and many other Classes
+here is my CSC113 Project in the Title of "Barnes and Noble" it's a library the project has a GUI and many other Classes i know it's a simple project and there are many Exceptions i should've done but i shared the project same as i submitted it, if i'd make any changes it'll probably be more Exceptions and handling other than that maybe the simple GUI but it's Efficient this way :).
